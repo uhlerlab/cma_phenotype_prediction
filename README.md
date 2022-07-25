@@ -1,7 +1,8 @@
 # Cross-modal autoencoder phenotype prediction 
 Code for phenotype prediction from cross-modal autoencoder embeddings used in the following [paper](https://www.biorxiv.org/content/10.1101/2022.05.26.493497v1).
 
-All dependencies are provided in the environment.yml file, which can be used to create a conda environment.  
+## Installation: 
+All dependencies are provided in the environment.yml file, which can be used to create a conda environment (see [conda instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)).  Installation takes around 5 minutes.  
 
 ## Description: 
 

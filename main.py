@@ -101,7 +101,7 @@ def main(options):
 
     val_r = model.evaluate(val_X, val_y, 256)['r2']
     test_r = model.evaluate(test_X, test_y, 256)['r2']
-    print(val_r, test_r, "GOT HERE")
+    print(val_r, test_r)
 
     with open('csv_outputs/output.csv', 'w') as f:
         writer = csv.writer(f, delimiter=',')

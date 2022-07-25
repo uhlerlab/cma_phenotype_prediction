@@ -1,4 +1,4 @@
-name: ntk
+name: cma_pred
 channels:
   - pytorch
   - conda-forge

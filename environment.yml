@@ -109,9 +109,6 @@ dependencies:
     - h5py==2.10.0
     - hickle==4.0.4
     - humanize==3.11.0
-    - jax==0.2.20
-    - jaxlib==0.1.71+cuda111
-    - neural-tangents==0.3.7
     - numpy==1.21.2
     - opt-einsum==3.3.0
     - tqdm==4.62.3
